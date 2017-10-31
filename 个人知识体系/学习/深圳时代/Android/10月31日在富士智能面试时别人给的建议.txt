@@ -1,0 +1,17 @@
+10月31日在富士智能面试时别人给的建议
+联网框架：Android RxJava+Retrofit
+图片加载框架：Glide
+开发模式：MVP
+数据库操作框架：GreenDao
+四大主键：Activity,Service,ContentProvider,BroadcastReceive
+数据传递机制：handler，异步任务处理
+问题解决：oom，ANR，crash
+性能优化
+自定义View
+事件分发机制
+动画
+屏幕适配（px）张鸿洋万能适配
+普通安卓面试题
+高级安卓面试题
+
+上级测试
